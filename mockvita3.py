@@ -1,0 +1,1 @@
+P,Q,R,S = list(map(int,input().split("\n")))
